@@ -22,8 +22,16 @@ This allows you to create and populate a table in a single guided workflow.
 3. Choose **Load Data into a Table**.
 
 ---
+## Step 2 - Download the dataset
+If you have not already downloaded the file:
 
-## Step 2 – Upload the File
+1. Open the [iris.csv](data/iris.csv) file in this repository.
+2. Click **Download raw file**.
+3. Save the file to your local machine.
+
+---
+
+## Step 3 – Upload the File
 
 1. Click **Browse**.
 2. Navigate to your saved `iris.csv` file.
@@ -33,7 +41,7 @@ The file should now appear in the upload window.
 
 ---
 
-## Step 3 – Select Database and Schema
+## Step 4 – Select Database and Schema
 
 1. Click **No database selected**.
 2. Choose:
@@ -42,7 +50,7 @@ The file should now appear in the upload window.
 
 ---
 
-## Step 4 – Name the Table
+## Step 5 – Name the Table
 
 - Leave **Select or create a table** set to **Create new table**.
     - Set the table name to: `IRIS_<YOUR_SOUID>`
@@ -50,7 +58,7 @@ The file should now appear in the upload window.
     - Replace `<YOUR_SOID>` with your actual SOUID. Do not include the angle brackets.
 - Click **Next**
 
-## Step 5 - Edit the Schema
+## Step 6 - Edit the Schema
 
 - Here is where the schema format can reviewed and updated as needed by changing data types and column names.  Click **Load** after reviewing.
 - **Tip** -  You can click on **Show SQL** to look under the hood on how Snowflake will create the Table and insert the data with the COPY INTO statement
