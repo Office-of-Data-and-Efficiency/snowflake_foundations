@@ -43,11 +43,11 @@ SELECT
 <table>
   <tr>
     <td align="center">
-      <strong>Change Role</strong><br><br>
+      <strong>Change Role & Warehouse</strong><br><br>
       <img src="assets/change_role_warehouse.png" width="">
     </td>
     <td align="center">
-      <strong>Change Database & Warehouse</strong><br><br>
+      <strong>Change Database & Schema</strong><br><br>
       <img src="assets/change_database_schema.png" width="">
     </td>
   </tr>
