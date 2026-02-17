@@ -1,5 +1,10 @@
 # Snowsight
 
+<p align="center">
+  <img src="assets/snowflake-homepage.png" width="800">
+</p>
+
+
 ### 1. Navigation Menu
 - Selections for creating and managing data products, notebooks, worksheets, databases, and related artifacts.
 - Provides access to Projects, Data, Compute, Governance, and Marketplace features.
@@ -14,7 +19,6 @@
 - Perform operations specific to your current role.
 - Create worksheets, notebooks, or dashboards.
 - Upload files directly to tables.
-- Execute SQL or Python without navigating away from the current page.
 
 ### 4. Recently Viewed
 - Displays recent worksheets, notebooks, dashboards, and projects.
