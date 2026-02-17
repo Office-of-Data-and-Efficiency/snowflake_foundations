@@ -25,7 +25,7 @@ This allows you to create and populate a table in a single guided workflow.
 ## Step 2 - Download the dataset
 If you have not already downloaded the file:
 
-1. Open the [iris.csv](data/iris.csv) file in this repository.
+1. Right click and open the [iris.csv](data/iris.csv) file in this repository in a new tab.
 2. Click **Download raw file**.
 3. Save the file to your local machine.
 
