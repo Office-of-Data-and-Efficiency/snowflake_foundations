@@ -6,7 +6,7 @@
 ## Lab Sections
 
 1. [Snowsight Interface Overview](snowsight.md)
-2. [Environment Setup (Role, Warehouse, Database)](environment-setup.md)
+2. [Environment Setup (Role, Warehouse, Database)](environment_setup.md)
 3. Data Loading
 4. Workspaces & SQL
 5. Notebooks
