@@ -68,7 +68,7 @@ You can execute multiple SQL statements at once by:
 Example:
 
 ```sql
-USE ROLE DAS_SFK_IOP_TRAIN_SYSADMIN;
+USE ROLE DAS_SFK_IOP_TRAIN_APPLAB_USERS;
 USE DATABASE IOP_APP_LAB_DB;
 USE SCHEMA IRIS;
 
