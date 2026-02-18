@@ -56,4 +56,4 @@ In this lab, you will:
 
 This demonstrates how Snowflake and Snowsight work together to support modern data workflows in a single, integrated environment.
 
-[Snowsight Interface Overview](snowsight.md) →
+← [Homepage](index.md)||[Snowsight Interface Overview](snowsight.md) →

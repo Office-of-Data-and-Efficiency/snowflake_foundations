@@ -1,22 +1,29 @@
 # Snowflake Snowsight Application Lab
 
 **Duration:** 90 Minutes  
-**Audience:** Internal Training  
+**Audience:** Internal Technical Training  
+**Level:** Foundational
 
 ---
 
-## Lab Objective
+## Lab Overview
 
-This hands-on lab introduces the core components of Snowflake and Snowsight.
+This hands-on lab introduces the core components of the Snowflake platform and the Snowsight interface through guided, practical exercises.
 
-Participants will:
+Participants will work directly inside Snowsight to simulate a real-world data workflow — from environment configuration and data ingestion to querying and interactive exploration.
 
-- Understand the Snowflake platform and interface  
-- Configure session context (role, database, warehouse)  
-- Load structured data  
-- Query data using SQL  
+---
+
+## Learning Objectives
+
+By the end of this lab, participants will be able to:
+
+- Explain the difference between Snowflake (platform) and Snowsight (interface)  
+- Configure session context (role, database, warehouse, schema)  
+- Load structured data into a new table  
+- Query data using SQL in a worksheet  
 - Explore data using Snowpark Notebooks  
-- Execute both SQL and Python inside Snowflake  
+- Execute both SQL and Python within the same Snowflake environment  
 
 All exercises are completed directly within Snowsight.
 
@@ -27,6 +34,7 @@ All exercises are completed directly within Snowsight.
 - Active Snowflake account access  
 - Assigned training role  
 - Access to the `IOP_APP_LAB` database  
+- Basic familiarity with SQL  
 
 ---
 
