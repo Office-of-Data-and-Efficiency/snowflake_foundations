@@ -1,4 +1,4 @@
-[Snowsight Interface Overview](snowsight.md) →
+← [Homepage](index.md)||[Snowsight Interface Overview](snowsight.md) →
 
 # About Snowflake and Snowsight
 

@@ -4,4 +4,4 @@ Internal training materials.
 
 👉 Access the lab site here:
 
-https://github.com/Office-of-Data-and-Efficiency/snowflake_foundations
+https://office-of-data-and-efficiency.github.io/snowflake_foundations/
