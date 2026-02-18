@@ -1,4 +1,4 @@
-← [Back to Create Table with Data Upload →](create-table-with-data-upload.md)
+← [Lab Overview](README.md)
 
 # Interacting with Your Data in a Worksheet
 

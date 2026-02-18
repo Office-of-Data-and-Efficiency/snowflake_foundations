@@ -1,4 +1,4 @@
-← [Back to Lab Overview](README.md)
+← [Lab Overview](README.md)
 
 # Workspaces
 
