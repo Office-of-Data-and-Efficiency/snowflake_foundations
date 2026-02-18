@@ -1,4 +1,4 @@
-← [Snowsight Interface Overview](snowsight.md) || [Data Loading](load_data.md) →
+← [Snowsight Interface Overview](snowsight.md) || [Loading Data](load_data.md) →
 
 # Environment Setup
 

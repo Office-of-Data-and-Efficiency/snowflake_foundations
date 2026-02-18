@@ -1,4 +1,4 @@
-← [Data Loading](load_data.md) || [SQL Worksheet](sql_worksheet.md) →
+← [Loading Data](load_data.md) || [SQL Worksheet](sql_worksheet.md) →
 
 # Workspaces
 

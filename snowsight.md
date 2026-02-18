@@ -1,4 +1,4 @@
-← [Lab Overview](README.md) || [Environment Setup (Role, Warehouse, Database)](environment_setup.md) →
+← [About Snowflake and Snowsight](about_snowflake.md) || [Environment Setup (Role, Warehouse, Database)](environment_setup.md) →
 
 # Snowsight Interface
 
