@@ -74,3 +74,5 @@ Workspaces provides a unified editor for creating, organizing, and managing code
 - **All Files** shows your full query history.
 - Filter results by file or execution.
 - Toggle using the **Query History icon** in the bottom toolbar.
+
+← [Loading Data](load_data.md) || [SQL Worksheet](sql_worksheet.md) →

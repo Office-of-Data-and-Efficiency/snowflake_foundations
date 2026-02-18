@@ -196,3 +196,5 @@ This demonstrates:
 - Built-in visualization capabilities  
 - No external BI tool required  
 - Interactive UI exploration  
+
+← [Workspaces](workspaces.md) || [Notebooks](snowpark_notebook.md) →

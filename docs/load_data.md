@@ -66,3 +66,5 @@ The file should now appear in the upload window.
 - A **Successfully Loaded Data** message should display.  Click **View table details**.
 - This page has many ways to interact with your new table.  Take a few moments to explore
 
+← [Environment Setup (Role, Warehouse, Database)](environment_setup.md) || [Workspaces](workspaces.md) →
+

@@ -1,4 +1,4 @@
-← [Lab Overview →](README.md)|| 
+[Snowsight Interface Overview](snowsight.md) →
 
 # About Snowflake and Snowsight
 
@@ -55,3 +55,5 @@ In this lab, you will:
 - Interact with both SQL and Python inside the same platform  
 
 This demonstrates how Snowflake and Snowsight work together to support modern data workflows in a single, integrated environment.
+
+[Snowsight Interface Overview](snowsight.md) →
