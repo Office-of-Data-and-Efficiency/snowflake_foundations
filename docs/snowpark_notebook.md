@@ -76,7 +76,7 @@ print("Database:", session.get_current_database())
 print("Schema:", session.get_current_schema())
 ```
 
-Click the **Play** button to execute the cell.
+Click the ▶ button to execute the cell.
 
 You should see output confirming your active role, database, and schema.
 
@@ -100,7 +100,7 @@ ORDER BY SEPAL_LENGTH DESC
 LIMIT 5;
 ```
 
-Run the cell and observe the filtered results.
+Run the cell ▶ and observe the filtered results.
 
 ---
 
@@ -125,7 +125,7 @@ df = session.sql("""
 df.show()
 ```
 
-Run the cell.
+Run the cell ▶.
 
 Observe:
 

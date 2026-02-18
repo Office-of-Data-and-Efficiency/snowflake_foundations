@@ -15,7 +15,7 @@ If these are not set correctly, queries may fail.
 
 ---
 
-## Option B – Set Context Using SQL
+## Option A – Set Context Using SQL
 
 Run the following statements:
 
@@ -25,7 +25,7 @@ USE DATABASE IOP_APP_LAB_DB;
 USE SCHEMA IRIS;
 USE WAREHOUSE AD_HOC_WH_TRAIN;
 ```
-### Confirm your context
+Confirm your context
 ```sql
 SELECT
     CURRENT_USER(),
@@ -36,7 +36,7 @@ SELECT
 ```
 
 ---
-### Option A - Set Context Using User Interface
+### Option B - Set Context Using User Interface
 
 ## Set Context Using the UI
 

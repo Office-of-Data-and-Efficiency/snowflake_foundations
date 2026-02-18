@@ -10,13 +10,11 @@ Before beginning the hands-on lab, it is important to understand the platform an
 
 Snowflake is a fully managed, cloud-native data platform designed to centralize and analyze data.
 
-It combines:
+It combines the following into a single platform while separating compute and storage so each can scale independently:
 
 - Data storage  
 - Data processing  
 - Data governance  
-
-into a single platform while separating compute and storage so each can scale independently.
 
 Snowflake supports:
 

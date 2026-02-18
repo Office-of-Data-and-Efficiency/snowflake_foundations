@@ -42,7 +42,7 @@ Workspaces provides a unified editor for creating, organizing, and managing code
 - Hierarchical view of all databases and objects in your account.
 - Organized by database → schema → object type.
 - Use the filter to quickly locate objects.
-- Select **Show databases I can query** to simplify the view.
+- Click **Filter** and then **Show databases I can query** to simplify the view.
 - Use the vertical ellipsis (⋮) to:
   - Insert object names into the editor
   - Copy object names

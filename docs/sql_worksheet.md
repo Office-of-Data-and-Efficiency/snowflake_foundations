@@ -29,7 +29,7 @@ Before running queries, review how to execute SQL in the worksheet.
 
 You can execute all SQL statements at once by:
 
-- Clicking the **down arrow** beside the blue **Run** button  
+- Clicking the **down arrow** beside the ▶️ button  
 - Selecting **Run All**
 
 Keyboard shortcuts:
@@ -44,8 +44,10 @@ Keyboard shortcuts:
 To execute only one statement:
 
 - Highlight the specific SQL statement  
+
   **or**
-- Place your cursor inside the statement you want to run  
+  
+- Place your cursor inside the statement you want to run and click ▶️
 
 Then use:
 
@@ -61,7 +63,8 @@ Then use:
 You can execute multiple SQL statements at once by:
 
 - Highlighting the statements you want to run  
-- Clicking **Run**  
+- Clicking ▶️ 
+
   **or**
 - Using the keyboard shortcut
 
