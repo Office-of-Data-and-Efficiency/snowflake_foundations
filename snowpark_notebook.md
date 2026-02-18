@@ -1,4 +1,4 @@
-← [Lab Overview](README.md)
+← [SQL Worksheet](sql_worksheet.md) || Python Worksheet →
 
 # Snowpark Notebooks in Snowsight
 

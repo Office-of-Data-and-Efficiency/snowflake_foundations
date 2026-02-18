@@ -1,4 +1,4 @@
-← [Lab Overview](README.md)
+← [Data Loading](load_data.md) || [SQL Worksheet](sql_worksheet.md) →
 
 # Workspaces
 

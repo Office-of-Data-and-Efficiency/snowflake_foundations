@@ -1,4 +1,4 @@
-← [Lab Overview ](README.md)
+← [Environment Setup (Role, Warehouse, Database)](environment_setup.md) || [Snowsight Interface Overview](snowsight.md) →
 
 # Create Table with Data Upload
 

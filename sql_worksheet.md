@@ -1,4 +1,4 @@
-← [Lab Overview](README.md)
+← [Workspaces](workspaces.md) || [Notebooks](snowpark_notebook.md) →
 
 # Interacting with Your Data in a Worksheet
 
