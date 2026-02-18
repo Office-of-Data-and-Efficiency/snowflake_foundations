@@ -1,4 +1,4 @@
-← [Environment Setup (Role, Warehouse, Database)](environment_setup.md) || [Snowsight Interface Overview](snowsight.md) →
+← [Environment Setup (Role, Warehouse, Database)](environment_setup.md) || [Workspaces](workspaces.md) →
 
 # Create Table with Data Upload
 
