@@ -1,4 +1,4 @@
-← [Lab Overview ](README.md)
+← [Snowsight Interface Overview](snowsight.md) || [Data Loading](load_data.md) →
 
 # Environment Setup
 
