@@ -2,7 +2,9 @@
 
 # Workspaces
 
-Workspaces provides a unified editor for creating, organizing, and managing code across multiple file types that you can use to analyze data, develop models, and build pipelines.  A workspace is private to you and offers a development environment where you can build, experiment, and test your work. 
+Workspaces provides a unified editor for creating, organizing, and managing code across multiple file types that you 
+can use to analyze data, develop models, and build pipelines.  A workspace is private to you and offers a development 
+environment where you can build, experiment, and test your work. 
 
 <details open>
   <summary><strong>Workspace Interface Overview</strong></summary>

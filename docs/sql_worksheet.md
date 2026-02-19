@@ -1,4 +1,4 @@
-← [Workspaces](workspaces.md) || [Notebooks](snowpark_notebook.md) →
+← [Loading Data](load_data.md) || [Notebooks](snowpark_notebook.md) →
 
 # Interacting with Your Data in a Worksheet
 
@@ -200,4 +200,4 @@ This demonstrates:
 - No external BI tool required  
 - Interactive UI exploration  
 
-← [Workspaces](workspaces.md) || [Notebooks](snowpark_notebook.md) →
+← [Loading Data](load_data.md) || [Notebooks](snowpark_notebook.md) →

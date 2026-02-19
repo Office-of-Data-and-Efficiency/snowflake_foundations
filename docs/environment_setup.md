@@ -1,4 +1,4 @@
-← [Snowsight Interface Overview](snowsight.md) || [Loading Data](load_data.md) →
+← [Snowsight Interface Overview](snowsight.md) || [Workspaces](workspaces.md) →
 
 # Environment Setup
 
@@ -13,30 +13,15 @@ Snowflake operations are controlled by:
 
 If these are not set correctly, queries may fail.
 
----
+The quickest way to set up our session context is to open a new SQL file.
 
-## Option A – Set Context Using SQL
+In the top left corner of the navigation pane click **+** and select **SQL File**.
 
-Run the following statements:
-
-```sql
-USE ROLE DAS_SFK_IOP_TRAIN_APPLAB_USERS;
-USE DATABASE IOP_APP_LAB_DB;
-USE SCHEMA IRIS;
-USE WAREHOUSE AD_HOC_WH_TRAIN;
-```
-Confirm your context
-```sql
-SELECT
-    CURRENT_USER(),
-    CURRENT_ROLE(),
-    CURRENT_DATABASE(),
-    CURRENT_SCHEMA(),
-    CURRENT_WAREHOUSE();
-```
+This should open a new file called **Untitled1.sql**
 
 ---
-### Option B - Set Context Using User Interface
+
+### Option A - Set Context Using User Interface
 
 ## Set Context Using the UI
 
@@ -53,4 +38,25 @@ SELECT
   </tr>
 </table>
 
-← [Snowsight Interface Overview](snowsight.md) || [Loading Data](load_data.md) →
+---
+## Option B – Set Context Using SQL
+
+Copy and paste the the following SQL statement in the the SQL file and click the ▶️ button.
+
+```sql
+USE ROLE DAS_SFK_IOP_TRAIN_APPLAB_USERS;
+USE DATABASE IOP_APP_LAB_DB;
+USE WAREHOUSE AD_HOC_WH_TRAIN;
+```
+Confirm your context by copying and pasting the the following SQL statement under the previous SQL and click the ▶️ button again.
+```sql
+SELECT
+    CURRENT_USER(),
+    CURRENT_ROLE(),
+    CURRENT_DATABASE(),
+    CURRENT_WAREHOUSE();
+```
+
+
+
+← [Snowsight Interface Overview](snowsight.md) || [Workspaces](workspaces.md) →
