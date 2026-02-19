@@ -1,4 +1,4 @@
-← [Loading Data](load_data.md) || [SQL Worksheet](sql_worksheet.md) →
+← [Environment Setup (Role, Warehouse, Database)](environment_setup.md) || [Loading Data](load_data.md) →
 
 # Workspaces
 
@@ -45,11 +45,10 @@ environment where you can build, experiment, and test your work.
 - Organized by database → schema → object type.
 - Use the filter to quickly locate objects.
 - Click **Filter** and then **Show databases I can query** to simplify the view.
-- Use the vertical ellipsis (⋮) to:
+- Use the ellipsis (...)  to:
   - Insert object names into the editor
   - Copy object names
   - View object definitions
-- Toggle visibility using the **File Explorer icon** in the bottom toolbar.
 
 ---
 
@@ -77,4 +76,4 @@ environment where you can build, experiment, and test your work.
 - Filter results by file or execution.
 - Toggle using the **Query History icon** in the bottom toolbar.
 
-← [Loading Data](load_data.md) || [SQL Worksheet](sql_worksheet.md) →
+← [Environment Setup (Role, Warehouse, Database)](environment_setup.md) || [Loading Data](load_data.md) →

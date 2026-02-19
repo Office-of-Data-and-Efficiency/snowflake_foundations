@@ -2,7 +2,7 @@
 
 # Environment Setup
 
-Before loading data or running queries, confirm your session context.
+Before loading data or running queries, we need to confirm our session context.
 
 Snowflake operations are controlled by:
 
@@ -15,9 +15,9 @@ If these are not set correctly, queries may fail.
 
 The quickest way to set up our session context is to open a new SQL file.
 
-In the top left corner of the navigation pane click **+** and select **SQL File**.
+In the top left corner of the navigation pane click **`+`** and select **`SQL File`**.
 
-This should open a new file called **Untitled1.sql**
+This should open a new file called **`Untitled1.sql`**
 
 ---
 

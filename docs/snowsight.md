@@ -89,7 +89,7 @@ The navigation menu organizes Snowsight into the following functional areas.
 
 ---
 
-## Account Preferences
+# Account Preferences
 
 Account Preferences allow you to configure your personal Snowsight experience.
 
