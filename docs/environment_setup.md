@@ -20,7 +20,7 @@ If these are not set correctly, queries may fail.
 Run the following statements:
 
 ```sql
-USE ROLE DAS_SFK_IOP_TRAIN_SYSADMIN;
+USE ROLE DAS_SFK_IOP_TRAIN_APPLAB_USERS;
 USE DATABASE IOP_APP_LAB_DB;
 USE SCHEMA IRIS;
 USE WAREHOUSE AD_HOC_WH_TRAIN;

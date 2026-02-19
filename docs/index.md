@@ -25,8 +25,6 @@ By the end of this lab, participants will be able to:
 - Explore data using Snowpark Notebooks  
 - Execute both SQL and Python within the same Snowflake environment  
 
-All exercises are completed directly within Snowsight.
-
 ---
 
 ## Prerequisites
@@ -34,7 +32,6 @@ All exercises are completed directly within Snowsight.
 - Active Snowflake account access  
 - Assigned training role  
 - Access to the `IOP_APP_LAB` database  
-- Basic familiarity with SQL  
 
 ---
 
