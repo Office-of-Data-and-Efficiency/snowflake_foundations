@@ -70,6 +70,8 @@ The notebook will be auto-generated with example content.
 Modify **Cell 1** to the following:
 
 ```python
+from snowflake.snowpark.context import get_active_session
+session = get_active_session()
 print("User:", session.get_current_user())
 print("Role:", session.get_current_role())
 print("Database:", session.get_current_database())
