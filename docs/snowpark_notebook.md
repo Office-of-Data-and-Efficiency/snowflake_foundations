@@ -170,4 +170,4 @@ Snowpark allows us to:
 
 ---
 
-← [SQL Worksheet](sql_worksheet.md) || Python Worksheet →
+← [SQL Worksheet](sql_worksheet.md) || [Final App Lab](final_app_lab.md) →
