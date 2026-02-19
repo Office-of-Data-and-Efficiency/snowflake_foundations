@@ -8,16 +8,10 @@ Now that your table has been created and loaded, we will explore the data using 
 
 # Step 1 – Create a Worksheet
 
-1. Click **Projects** in the navigation menu.  
-2. Select **Worksheets**.  
-3. Click **+** to create a new worksheet.  
-4. Confirm your context is still set correctly.
-
-You should be using your table:
-
-`IRIS_<YOUR_SOUID>`
-
-Replace `<YOUR_SOUID>` with your actual SOUID.
+1. Click **`Projects`** in the navigation menu.   
+2. Click **`+ Add New`** and select **`SQL File`**. 
+3. **`Untitled`** is highlighted.  Give the file a new name.
+4. Look at the session context.  Is it still correct?  If not make the necessary updates.
 
 ---
 
@@ -110,10 +104,9 @@ Keyboard shortcuts:
 Run the following query:
 
 ```sql
-SELECT *
-FROM IRIS_<YOUR_SOUID>
-LIMIT 10;
+SELECT * FROM IRIS_<YOUR_SOUID> LIMIT 10;
 ```
+> Format the SQL using one of the methods above.
 
 Observe:
 
@@ -121,6 +114,7 @@ Observe:
 - Numeric precision  
 - Text columns  
 - Row formatting in the results grid  
+- SQL formatting went from one line to multiple.
 
 ---
 
