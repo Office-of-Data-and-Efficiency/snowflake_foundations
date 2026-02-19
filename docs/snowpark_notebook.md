@@ -47,6 +47,7 @@ The Notebooks home screen will display any notebooks you have access to.
 
    - **Database:** `IOP_APP_LAB`
    - **Schema:** `IRIS`
+   - **Runtime version:** `Snowflake Warehouse Runtime 2.0`
    - **Query Warehouse:** `AD_HOC_WH_TRAIN`
    - **Notebook Warehouse:** `AD_HOC_WH_TRAIN`
 
