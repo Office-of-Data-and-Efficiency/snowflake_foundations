@@ -66,17 +66,23 @@ The navigation menu organizes Snowsight into the following functional areas.
 - **Admin**  
   Administer accounts, billing, integrations, and administrative settings.
 
+---
+
 # 2. Search
 - Easily discover data products and database objects.
 - Search for tables, views, functions, schemas, and other objects.
 - Quickly navigate to objects without browsing the full hierarchy.
+
 ---
+
 # 3. Quick Actions
 - Perform operations specific to your current role.
 - Create worksheets, notebooks, or dashboards.
 - Upload files directly to tables.
+
 ---
 # 4. Recently Viewed
+
 - Displays recent worksheets, notebooks, dashboards, and projects.
 - Provides quick return access to recent work.
 - Organized into tabs for different object types.
