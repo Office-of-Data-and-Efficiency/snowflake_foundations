@@ -1,4 +1,4 @@
-← [SQL Worksheet](sql_worksheet.md) || Python Worksheet →
+← [SQL Worksheet](sql_worksheet.md) || [Final App Lab](final_app_lab.md) →
 
 # Snowpark Notebooks in Snowsight
 
@@ -80,6 +80,10 @@ Click the ▶ button to execute the cell.
 
 You should see output confirming your active role, database, and schema.
 
+### Why This Matters
+
+The `get_active_session()` function gives us access to the notebook's current Snowflake session context because if something fails due to permissions, checking these values should be the first step in debugging the issue.
+
 ---
 
 # Step 5 – Convert Cell 2 to SQL
@@ -125,13 +129,42 @@ df = session.sql("""
 df.show()
 ```
 
-Run the cell ▶.
+Run the cell ▶
 
-Observe:
+## What This Code Does
 
-- SQL executed inside Python  
-- Snowpark returning results as a DataFrame  
-- Output displayed directly in the notebook  
+We create a DataFrame by running a SQL query:
+
+- `SELECT *` → Select all columns  
+- `FROM IRIS_10005270` → Use the Iris dataset table  
+- `WHERE PETAL_LENGTH > 1.4` → Filter rows based on a condition  
+- `ORDER BY PETAL_LENGTH DESC` → Sort from largest to smallest  
+- `LIMIT 5` → Return only 5 rows  
+
+The result of the SQL query is stored in a Snowpark DataFrame called `df`.
+
+---
+
+## Why This Is Powerful
+
+Snowpark allows us to:
+
+- Write familiar SQL
+- Execute it inside Snowflake
+- Work with the results as a Python DataFrame
+- Continue transforming data using Python if needed
+
+---
+
+## Final Step
+
+`df.show()` displays the results directly in the notebook so we can inspect the data.
+
+## Observations:
+
+- SQL is executed inside Python  
+- Snowpark returns results as a DataFrame  
+- Output is displayed directly in the notebook  
 
 ---
 

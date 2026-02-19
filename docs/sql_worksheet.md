@@ -6,7 +6,7 @@ Now that your table has been created and loaded, we will explore the data using 
 
 ---
 
-# Step 1 – Open a Worksheet
+# Step 1 – Create a Worksheet
 
 1. Click **Projects** in the navigation menu.  
 2. Select **Worksheets**.  

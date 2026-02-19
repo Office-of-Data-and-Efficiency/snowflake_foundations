@@ -47,7 +47,7 @@ All exercises are completed directly within Snowsight.
 5. [Workspaces](workspaces.md)  
 6. [SQL Worksheet](sql_worksheet.md)  
 7. [Snowpark Notebooks](snowpark_notebook.md)  
-8. Python Worksheet  
+8. [Final App Lab](final_app_lab.md)
 
 ---
 
