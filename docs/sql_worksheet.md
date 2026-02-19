@@ -37,13 +37,13 @@ Keyboard shortcuts:
 
 To execute only one statement:
 
-- Highlight the specific SQL statement  
+- Highlight the specific SQL statement and click ▶️  
 
   **or**
   
 - Place your cursor inside the statement you want to run and click ▶️
 
-Then use:
+Keyboard shortcuts:
 
 - **Windows:** `CTRL + Enter`  
 - **MacOS:** `Command + Return`
@@ -59,8 +59,9 @@ You can execute multiple SQL statements at once by:
 - Highlighting the statements you want to run  
 - Clicking ▶️ 
 
-  **or**
-- Using the keyboard shortcut
+Keyboard shortcuts:
+- **Windows:** `CTRL + Enter`  
+- **MacOS:** `Command + Return`
 
 Example:
 

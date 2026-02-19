@@ -15,17 +15,19 @@ This allows you to create and populate a table in a single guided workflow.
 
 ---
 
-## Step 1 – Navigate to Load Data
+## Step 1 – Download the dataset
+
+1. Download the [iris.csv](data/iris.csv) file.
+
+---
+## Step 2 - Load Data
+
+Navigate to Load Data
 
 1. From the left navigation menu, click **`+`**.
 2. Click **`Add Data`**.
 3. Choose **`Load Data into a Table`**.
-
----
-## Step 2 - Download the dataset
-If you have not already downloaded the file:
-
-1. Download the [iris.csv](data/iris.csv) file.
+4. If a window opens asking to choose a Warehouse choose **`AD_HOC_WH_TRAIN`** and repeat steps 1-3.
 
 ---
 
