@@ -61,3 +61,8 @@ code {
   padding-right: 12px;
   font-size: 0.9rem;
 }
+
+/* Reduce left padding inside main content */
+.main-content-wrap {
+  padding-left: 24px;  /* default is larger */
+}
