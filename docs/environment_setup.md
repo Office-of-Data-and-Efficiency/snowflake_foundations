@@ -1,4 +1,7 @@
-← [Snowsight Interface Overview](snowsight.md) || [Workspaces](workspaces.md) →
+---
+title: Module 3 - Environment Setup
+nav_order: 4
+---
 
 # Environment Setup
 
@@ -56,7 +59,3 @@ SELECT
     CURRENT_DATABASE(),
     CURRENT_WAREHOUSE();
 ```
-
-
-
-← [Snowsight Interface Overview](snowsight.md) || [Workspaces](workspaces.md) →

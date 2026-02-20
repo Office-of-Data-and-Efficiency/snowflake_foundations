@@ -1,4 +1,7 @@
-← [About Snowflake and Snowsight](about_snowflake.md) || [Environment Setup (Role, Warehouse, Database)](environment_setup.md) →
+---
+title: Module 2 - Snowsight Interface Overview
+nav_order: 3
+---
 
 # Snowsight Interface
 
@@ -102,5 +105,3 @@ You can configure:
 - **Theme** – Light, Dark, or System.
 - **Language** – Display language for Snowsight.
 - **Default Role & Warehouse** – Sets the default context when opening worksheets and dashboards.
-
-← [About Snowflake and Snowsight](about_snowflake.md) || [Environment Setup (Role, Warehouse, Database)](environment_setup.md) →

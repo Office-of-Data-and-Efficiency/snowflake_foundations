@@ -1,4 +1,8 @@
-← [Workspaces](workspaces.md)  || [SQL Worksheet](sql_worksheet.md) →
+---
+title: Module 5 - Loading Data
+nav_order: 6
+---
+
 
 # Create Table with Data Upload
 
@@ -66,6 +70,5 @@ The file should now appear in the upload window.
 - A **`Successfully Loaded Data`** message should display.  Click **`View table details`**.
 - This page has many ways to interact with your new table.  Take a few moments to explore
 
-← [Workspaces](workspaces.md)  || [SQL Worksheet](sql_worksheet.md) →
 
 

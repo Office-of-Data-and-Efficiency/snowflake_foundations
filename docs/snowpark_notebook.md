@@ -1,4 +1,7 @@
-← [SQL Worksheet](sql_worksheet.md) || [Final App Lab](final_app_lab.md) →
+---
+title: Module 7 - Snowpark Notebooks
+nav_order: 8
+---
 
 # Snowpark Notebooks in Snowsight
 
@@ -169,6 +172,3 @@ Snowpark allows us to:
 - Snowpark returns results as a DataFrame  
 - Output is displayed directly in the notebook  
 
----
-
-← [SQL Worksheet](sql_worksheet.md) || [Final App Lab](final_app_lab.md) →

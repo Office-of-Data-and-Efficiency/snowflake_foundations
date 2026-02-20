@@ -1,4 +1,7 @@
-← [Notebooks](snowpark_notebook.md) || [Home](https://github.com/Office-of-Data-and-Efficiency/snowflake_foundations)
+---
+title: Module 8 - Final App Lab
+nav_order: 9
+---
 
 # Snowflake Foundations – Final App Lab
 
@@ -191,6 +194,3 @@ Conceptually, you completed an end-to-end data workflow:
 - Used Snowpark to push a pandas DataFrame directly into Snowflake
 - Automatically created a relational table
 - Queried and validated the dataset using SQL
-
-
-← [Notebooks](snowpark_notebook.md) || [Home](https://github.com/Office-of-Data-and-Efficiency/snowflake_foundations)

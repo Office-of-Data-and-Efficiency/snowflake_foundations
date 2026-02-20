@@ -1,4 +1,7 @@
-← [Loading Data](load_data.md) || [Notebooks](snowpark_notebook.md) →
+---
+title: Module 6 - SQL Worksheet
+nav_order: 7
+---
 
 # Interacting with Your Data in a Worksheet
 
@@ -194,5 +197,3 @@ This demonstrates:
 - Built-in visualization capabilities  
 - No external BI tool required  
 - Interactive UI exploration  
-
-← [Loading Data](load_data.md) || [Notebooks](snowpark_notebook.md) →

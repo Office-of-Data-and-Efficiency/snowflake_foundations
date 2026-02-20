@@ -1,5 +1,5 @@
 ---
-title: Module 1 – About Snowflake and Snowsight
+title: Module 1 - About Snowflake and Snowsight
 nav_order: 2
 ---
 

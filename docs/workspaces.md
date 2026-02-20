@@ -1,4 +1,7 @@
-← [Environment Setup (Role, Warehouse, Database)](environment_setup.md) || [Loading Data](load_data.md) →
+---
+title: Module 4 - Workspaces
+nav_order: 5
+---
 
 # Workspaces
 
@@ -75,5 +78,3 @@ environment where you can build, experiment, and test your work.
 - **`All Files`** shows your full query history.
 - Filter results by file or execution.
 - Toggle using the **`Query History icon`** in the bottom toolbar.
-
-← [Environment Setup (Role, Warehouse, Database)](environment_setup.md) || [Loading Data](load_data.md) →
