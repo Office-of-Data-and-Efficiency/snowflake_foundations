@@ -5,5 +5,7 @@ url: https://office-of-data-and-efficiency.github.io/snowflake_foundations/
 
 search_enabled: true
 
+heading_anchors: true
+
 toc:
   enabled: true
