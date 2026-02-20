@@ -8,6 +8,12 @@ has_toc: true
 
 The Snowsight home page contains five primary interface sections that support data development, administration, and exploration workflows.
 
+1. [Navigation Menu](#1-navigation-menu) 
+2. [Search](#2-search) 
+3. [Quick Actions](#3-quick-actions) 
+4. [Recently Viewed](#4-recently-viewed) 
+5. [Account Settings](#5-account-settings)
+
 <details open>
   <summary><strong>Snowsight Home Overview</strong></summary>
 
