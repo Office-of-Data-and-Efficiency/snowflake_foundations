@@ -17,3 +17,27 @@ p {
 li {
   color: #000000 !important;
 }
+
+/* Left sidebar background */
+.side-bar {
+  background-color: #0f172a !important;  /* dark navy example */
+}
+
+/* Sidebar text color */
+.side-bar a {
+  color: #ffffff !important;
+}
+
+/* Active nav item */
+.nav-list .nav-list-item .nav-list-link.active {
+  background-color: #1e293b !important;
+  color: #ffffff !important;
+}
+
+/* Inline code */
+
+code {
+  background-color: #e6f4ff !important;
+  color: #0b5fff !important;
+  border-radius: 4px;
+}
