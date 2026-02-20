@@ -21,7 +21,7 @@ Within Notebooks, you can leverage Snowflake data to:
 All within the same interface.
 
 
-# What This Will Demonstrate
+## What This Will Demonstrate
 
 - Switching between SQL and Python cells  
 - Executing SQL natively inside a Notebook  
@@ -30,7 +30,7 @@ All within the same interface.
 
 ---
 
-# Step 1 – Navigate to Notebooks
+## Step 1 – Navigate to Notebooks
 
 1. Hover over **Projects** in the navigation menu.  
 2. Click **Notebooks**.
@@ -39,7 +39,7 @@ The Notebooks home screen will display any notebooks you have access to.
 
 ---
 
-# Step 2 – Create a New Notebook
+## Step 2 – Create a New Notebook
 
 1. Click **+ Notebook**.  
 2. Set the Notebook name to match your dataset using:
@@ -60,7 +60,7 @@ The notebook will be auto-generated with example content.
 
 ---
 
-# Step 3 – Start the Notebook Session
+## Step 3 – Start the Notebook Session
 
 1. Click **Start** to begin the notebook session.
 2. Wait for the session to initialize.
@@ -69,7 +69,7 @@ The notebook will be auto-generated with example content.
 
 ---
 
-# Step 4 – Update Cell 1 (Python)
+## Step 4 – Update Cell 1 (Python)
 
 Modify **Cell 1** to the following:
 
@@ -86,13 +86,13 @@ Click the ▶ button to execute the cell.
 
 You should see output confirming your active role, database, and schema.
 
-### Why This Matters
+#### Why This Matters
 
 The `get_active_session()` function gives us access to the notebook's current Snowflake session context because if something fails due to permissions, checking these values should be the first step in debugging the issue.
 
 ---
 
-# Step 5 – Convert Cell 2 to SQL
+## Step 5 – Convert Cell 2 to SQL
 
 1. Change **Cell 2** type to **SQL**.
 2. Rename the cell to:
@@ -114,7 +114,7 @@ Run the cell ▶ and observe the filtered results.
 
 ---
 
-# Step 6 – Convert Cell 3 to Python
+## Step 6 – Convert Cell 3 to Python
 
 1. Change **Cell 3** type to **Python**.
 2. Rename the cell to:
@@ -137,7 +137,7 @@ df.show()
 
 Run the cell ▶
 
-## What This Code Does
+### What This Code Does
 
 We create a DataFrame by running a SQL query:
 
@@ -151,7 +151,7 @@ The result of the SQL query is stored in a Snowpark DataFrame called `df`.
 
 ---
 
-## Why This Is Powerful
+### Why This Is Powerful
 
 Snowpark allows us to:
 
@@ -162,11 +162,11 @@ Snowpark allows us to:
 
 ---
 
-## Final Step
+### Final Step
 
 `df.show()` displays the results directly in the notebook so we can inspect the data.
 
-## Observations:
+### Observations:
 
 - SQL is executed inside Python  
 - Snowpark returns results as a DataFrame  

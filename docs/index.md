@@ -36,7 +36,8 @@ By the end of this lab, participants will be able to:
 
 - Active Snowflake account access  
 - Assigned training role  
-- Access to the `IOP_APP_LAB` database  
+- Access to the `IOP_APP_LAB` database
+- State Network VPN Access  
 
 ---
 

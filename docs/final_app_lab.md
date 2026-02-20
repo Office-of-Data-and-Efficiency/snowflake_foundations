@@ -22,7 +22,7 @@ In this final hands-on lab, participants will:
 
 # Part 1 – Creating the notebook and setting session context and variables
 
-### Step 1: Open a Snowpark Notebook
+## Step 1: Open a Snowpark Notebook
 
 - Navigate to **Notebooks** in Snowsight
 - Click **+ Notebook**
@@ -42,7 +42,7 @@ In this final hands-on lab, participants will:
 
 ---
 
-### Step 2: Set Snowpark Session Context
+## Step 2: Set Snowpark Session Context
 
 Enter the following Python code into cell 1, rename cell 1 `Session_Context`, and click ▶.
 
@@ -84,8 +84,8 @@ Each participant will now generate their own uniquely named table.
 
 # Part 2 – Generate Synthetic Customer Data
 
-### Step 4: Create Synthetic Data with Faker
-#### Visit <a href="https://faker.readthedocs.io/en/master/index.html" target="_blank">Faker Documentation</a> for more info.
+## Step 4: Create Synthetic Data with Faker
+### Visit <a href="https://faker.readthedocs.io/en/master/index.html" target="_blank">Faker Documentation</a> for more info.
 
 
 This link is an excellent resource for learning how to use Faker to create synthetic data for testing and experimentation.
@@ -134,7 +134,7 @@ You now have a synthetic dataset stored in a pandas DataFrame.
 
 # Part 3 – Writing Data to Snowflake
 
-### Step 5: Write Data to a New Snowflake Table
+## Step 5: Write Data to a New Snowflake Table
 
 Click **+ Python** at the end of the `Synthetic_Data` cell and insert the following Python code. Rename this cell `Write_to_Snowflake` and click ▶.
 
@@ -160,7 +160,7 @@ You have just moved data from Python into a cloud-native data platform using Sno
 
 # Part 4 – Validation
 
-### Step 6: Switch to a SQL Cell and Preview Your Data
+## Step 6: Switch to a SQL Cell and Preview Your Data
 
 Click **+ SQL** at the end of the `Write_to_Snowflake` cell and insert the following SQL. Click ▶ to confirm there are 200 records.
 
@@ -180,7 +180,7 @@ This confirms your data was successfully written to Snowflake.
 ---
 
 
-# What Did We Just Accomplish?
+## What Did We Just Accomplish?
 
 Let’s step back and look at what this lab demonstrated.
 
