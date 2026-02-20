@@ -1,42 +1,32 @@
-/* Make all body text black */
-body {
-  color: #000000 !important;
-}
+/* =======================================================
+   Text Styling
+======================================================= */
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  color: #000000 !important;
-}
+$body-text-color: #000000;
+$heading-color: #000000;
 
-/* Paragraph text */
-p {
-  color: #000000 !important;
-}
+/* =======================================================
+   Sidebar Styling
+======================================================= */
 
-/* List text */
-li {
-  color: #000000 !important;
-}
+$sidebar-color: #1167E6;          // Sidebar background
+$nav-link-color: #ffffff;         // Sidebar links
+$nav-child-link-color: #ffffff;   // Nested links
+$nav-link-color-hover: #ffffff;   // Hover color
+$nav-width: 280px; //Navigation width
 
-/* Left sidebar background */
-.side-bar {
-  background-color: #1167E6 !important;  /* dark navy example */
-}
+/* Active navigation item */
+$nav-active-link-color: #c0c7db;
+$nav-active-link-background-color: #1167E6;
 
-/* Sidebar text color */
-.side-bar a {
-  color: #ffffff !important;
-}
+/* =======================================================
+   Code Styling
+======================================================= */
 
-/* Active nav item */
-.nav-list .nav-list-item .nav-list-link.active {
-  background-color: #1167E6 !important;
-  color: #ffffff !important;
-}
+$code-background-color: #e6f4ff;
+$code-text-color: #1167E6;
 
-
+/* Optional visual polish */
 code {
-  background-color: #e6f4ff !important;
-  color: #1167E6 !important;
   border-radius: 4px;
 }
