@@ -4,3 +4,6 @@ remote_theme: just-the-docs/just-the-docs
 url: https://office-of-data-and-efficiency.github.io/snowflake_foundations/
 
 search_enabled: true
+
+toc:
+  enabled: true
