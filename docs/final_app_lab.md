@@ -14,11 +14,6 @@ In this final hands-on lab, participants will:
 2. Write data to Snowflake using Snowpark
 3. Dynamically create a personalized table using their SOUID
 4. Query and analyze the data using SQL
-5. Perform data quality checks
-6. Create a cleaned dataset
-7. End with an analytics-ready result
-
-This lab is designed to bring the training to a strong technical and conceptual crescendo — combining Python, Snowpark, and SQL into one cohesive workflow.
 
 ---
 
@@ -87,8 +82,8 @@ Each participant will now generate their own uniquely named table.
 # Part 2 – Generate Synthetic Customer Data
 
 ### Step 4: Create Synthetic Data with Faker
+#### Visit <a href="https://faker.readthedocs.io/en/master/index.html" target="_blank">Faker Documentation</a> for more info.
 
-#### [Faker Documentation](https://faker.readthedocs.io/en/master/index.html)
 
 This link is an excellent resource for learning how to use Faker to create synthetic data for testing and experimentation.
 
