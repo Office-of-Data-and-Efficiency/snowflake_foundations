@@ -1,3 +1,8 @@
+---
+title: Homepage
+nav_order: 1
+---
+
 # Snowflake Snowsight Application Lab
 
 **Duration:** 90 Minutes  

@@ -1,4 +1,7 @@
-← [Homepage](index.md)||[Snowsight Interface Overview](snowsight.md) →
+---
+title: Module 1 – About Snowflake and Snowsight
+nav_order: 2
+---
 
 # About Snowflake and Snowsight
 
@@ -54,4 +57,3 @@ In this lab, you will:
 
 This demonstrates how Snowflake and Snowsight work together to support modern data workflows in a single, integrated environment.
 
-← [Homepage](index.md)||[Snowsight Interface Overview](snowsight.md) →
