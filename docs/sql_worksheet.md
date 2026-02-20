@@ -11,9 +11,9 @@ Now that your table has been created and loaded, we will explore the data using 
 
 # Step 1 – Create a Worksheet
 
-1. Click **`Projects`** in the navigation menu.   
-2. Click **`+ Add New`** and select **`SQL File`**. 
-3. **`Untitled`** is highlighted.  Give the file a new name.
+1. Click `Projects` in the navigation menu.   
+2. Click `+ Add New` and select `SQL File`. 
+3. `Untitled` is highlighted.  Give the file a new name.
 4. Look at the session context.  Is it still correct?  If not make the necessary updates.
 
 ---

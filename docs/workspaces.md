@@ -5,10 +5,15 @@ nav_order: 5
 
 # Workspaces
 
-Workspaces provides a unified editor for creating, organizing, and managing code across multiple file types that you 
-can use to analyze data, develop models, and build pipelines.  A workspace is private to you and offers a development 
-environment where you can build, experiment, and test your work. 
+Workspaces provides a unified editor for creating, organizing, and managing code across multiple file types that you can use to analyze data, develop models, and build pipelines.  A workspace is private to you and offers a development environment where you can build, experiment, and test your work. 
 
+It is made up of 6 spaces:
+1. Workspaces
+2. Worksheets
+3. Database Explorer
+4. Editor
+5. Results Panel
+6. Query History
 <details open>
   <summary><strong>Workspace Interface Overview</strong></summary>
 
@@ -25,8 +30,8 @@ environment where you can build, experiment, and test your work.
 - Central location for your files and folders.
 - Drag and drop files between folders.
 - Use nested folders to organize related worksheets.
-- Each user has a default workspace named **`My Workspace`**.
-- You can create additional workspaces using **`+ Add New`**.
+- Each user has a default workspace named `My Workspace`.
+- You can create additional workspaces using `+ Add New`.
 - The default workspace cannot be renamed or deleted.
 
 ---
@@ -47,7 +52,7 @@ environment where you can build, experiment, and test your work.
 - Hierarchical view of all databases and objects in your account.
 - Organized by database → schema → object type.
 - Use the filter to quickly locate objects.
-- Click **`Filter`** and then **`Show databases I can query`** to simplify the view.
+- Click `Filter` and then `Show databases I can query` to simplify the view.
 - Use the ellipsis (...)  to:
   - Insert object names into the editor
   - Copy object names
@@ -74,7 +79,7 @@ environment where you can build, experiment, and test your work.
 ## 6. Query History
 
 - View all queries you have executed.
-- **`Current File`** shows history for the active file only.
-- **`All Files`** shows your full query history.
+- `Current File` shows history for the active file only.
+- `All Files` shows your full query history.
 - Filter results by file or execution.
-- Toggle using the **`Query History icon`** in the bottom toolbar.
+- Toggle using the `Query History icon` in the bottom toolbar.

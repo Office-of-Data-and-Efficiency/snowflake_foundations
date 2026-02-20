@@ -18,15 +18,15 @@ If these are not set correctly, queries may fail.
 
 The quickest way to set up our session context is to open a new SQL file.
 
-In the top left corner of the navigation pane click **`+`** and select **`SQL File`**.
+In the top left corner of the navigation pane click `+` and select `SQL File`.
 
-This should open a new file called **`Untitled1.sql`**
+This should open a new file called `Untitled1.sql`
 
 ---
 
-### Option A - Set Context Using User Interface
+## Option A - Set Context Using User Interface
 
-## Set Context Using the UI
+### Set Context Using the UI
 
 <table>
   <tr>

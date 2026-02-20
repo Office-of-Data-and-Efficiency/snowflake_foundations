@@ -1,9 +1,12 @@
 ---
 title: Module 2 - Snowsight Interface Overview
 nav_order: 3
+has_toc: true
 ---
 
 # Snowsight Interface
+
+The Snowsight home page contains five primary interface sections that support data development, administration, and exploration workflows.
 
 <details open>
   <summary><strong>Snowsight Home Overview</strong></summary>
@@ -14,17 +17,19 @@ nav_order: 3
 
 </details>
 
-
-# 1. Navigation Menu
-- Selections for creating and managing data products, notebooks, worksheets, databases, and related artifacts.
-- Provides access to Projects, Data, Compute, Governance, and Marketplace features.
-- Primary starting point for most development and administrative activities.
-
-## Navigation Menu Breakdown
-
-The navigation menu organizes Snowsight into the following functional areas.
-
 ---
+
+## 1. Navigation Menu
+
+The Navigation Menu is the primary control center for working within Snowflake.
+
+- Create and manage data products, notebooks, worksheets, databases, and related artifacts  
+- Access Projects, Data, Compute, Governance, and Marketplace features  
+- Serve as the starting point for most development and administrative activities  
+
+### Navigation Menu Breakdown
+
+The navigation menu organizes Snowsight into the following functional areas:
 
 ### Work with Data
 
@@ -46,8 +51,6 @@ The navigation menu organizes Snowsight into the following functional areas.
 - **Marketplace**  
   Discover third-party data, applications, and products.
 
----
-
 ### Horizon Catalog
 
 - **Catalog**  
@@ -59,8 +62,6 @@ The navigation menu organizes Snowsight into the following functional areas.
 - **Governance & Security**  
   Manage permissions, monitor access, and enforce security policies.
 
----
-
 ### Manage
 
 - **Compute**  
@@ -71,37 +72,47 @@ The navigation menu organizes Snowsight into the following functional areas.
 
 ---
 
-# 2. Search
-- Easily discover data products and database objects.
-- Search for tables, views, functions, schemas, and other objects.
-- Quickly navigate to objects without browsing the full hierarchy.
+## 2. Search
+
+The Search feature enables rapid discovery of data products and database objects.
+
+- Search for tables, views, functions, schemas, and other objects  
+- Navigate directly to objects without browsing full hierarchies  
+- Improve efficiency when working in large environments  
 
 ---
 
-# 3. Quick Actions
-- Perform operations specific to your current role.
-- Create worksheets, notebooks, or dashboards.
-- Upload files directly to tables.
+## 3. Quick Actions
 
----
-# 4. Recently Viewed
+Quick Actions provide shortcuts for commonly performed tasks.
 
-- Displays recent worksheets, notebooks, dashboards, and projects.
-- Provides quick return access to recent work.
-- Organized into tabs for different object types.
+- Create worksheets, notebooks, or dashboards  
+- Upload files directly to tables  
+- Perform operations specific to your current role  
 
 ---
 
-# Account Preferences
+## 4. Recently Viewed
 
-Account Preferences allow you to configure your personal Snowsight experience.
+Recently Viewed provides fast access to previously opened assets.
 
-To access:
-1. Click your profile icon in the bottom-left corner.
-2. Select **Settings** => **Preferences** 
+- Displays recent worksheets, notebooks, dashboards, and projects  
+- Enables quick return to active work  
+- Organized into tabs by object type  
 
-You can configure:
+---
 
-- **Theme** – Light, Dark, or System.
-- **Language** – Display language for Snowsight.
-- **Default Role & Warehouse** – Sets the default context when opening worksheets and dashboards.
+## 5. Account Settings
+
+Account Settings allow you to configure your personal Snowsight experience.
+
+### Accessing Settings
+
+1. Click your profile icon in the bottom-left corner  
+2. Select **Settings** → **Preferences**
+
+### Configurable Options
+
+- **Theme** – Light, Dark, or System  
+- **Language** – Display language for Snowsight  
+- **Default Role & Warehouse** – Sets the default session context when opening worksheets and dashboards  
