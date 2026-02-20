@@ -1,19 +1,25 @@
 ---
+layout: default
 title: Module 4 - Workspaces
 nav_order: 5
+has_toc: true
 ---
 
 # Workspaces
 
 Workspaces provides a unified editor for creating, organizing, and managing code across multiple file types that you can use to analyze data, develop models, and build pipelines.  A workspace is private to you and offers a development environment where you can build, experiment, and test your work. 
 
-It is made up of 6 spaces:
-1. Workspaces
-2. Worksheets
-3. Database Explorer
-4. Editor
-5. Results Panel
-6. Query History
+It is made up of 6 areas:
+
+1. [My Workspace](#1-workspaces)
+2. [Worksheets](#2-worksheets)
+3. [Database Explorer](#3-database-explorer)
+4. [Editor](#4-editor)
+5. [Results Panel](#5-results-panel)
+6. [Query History](#6-query-history)
+
+---
+
 <details open>
   <summary><strong>Workspace Interface Overview</strong></summary>
 
