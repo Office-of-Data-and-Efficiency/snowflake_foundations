@@ -40,3 +40,24 @@ code {
   color: #1167E6 !important;
   border-radius: 4px;
 }
+
+/* ======================================
+   Make Sidebar Narrower
+====================================== */
+
+/* Shrink sidebar width */
+.side-bar {
+  width: 220px;   /* Default is ~264px */
+}
+
+/* Adjust main content position */
+.main {
+  margin-left: 220px;
+}
+
+/* Optional: tighten nav padding */
+.side-bar .nav-list .nav-list-link {
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 0.9rem;
+}
