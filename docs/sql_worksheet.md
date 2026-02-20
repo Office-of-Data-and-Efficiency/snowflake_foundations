@@ -9,7 +9,7 @@ Now that your table has been created and loaded, we will explore the data using 
 
 ---
 
-# Step 1 – Create a Worksheet
+## Step 1 – Create a Worksheet
 
 1. Click `Projects` in the navigation menu.   
 2. Click `+ Add New` and select `SQL File`. 
@@ -18,7 +18,7 @@ Now that your table has been created and loaded, we will explore the data using 
 
 ---
 
-# Step 2 – Executing SQL in Snowsight
+## Step 2 – Executing SQL in Snowsight
 
 Before running queries, review how to execute SQL in the worksheet.
 
@@ -36,7 +36,7 @@ Keyboard shortcuts:
 
 ---
 
-## Run a Single SQL Statement
+### Run a Single SQL Statement
 
 To execute only one statement:
 
@@ -55,7 +55,7 @@ Keyboard shortcuts:
 
 ---
 
-## Run Multiple Statements Together
+### Run Multiple Statements Together
 
 You can execute multiple SQL statements at once by:
 
@@ -85,7 +85,7 @@ Snowflake executes each statement in order.
 
 ---
 
-# Step 3 – Formatting SQL
+## Step 3 – Formatting SQL
 
 You can automatically format your SQL for readability.
 
@@ -103,7 +103,7 @@ Keyboard shortcuts:
 
 ---
 
-# Step 4 – Preview the Data
+## Step 4 – Preview the Data
 
 Run the following query:
 
@@ -122,7 +122,7 @@ Observe:
 
 ---
 
-# Step 5 – Count the Rows
+## Step 5 – Count the Rows
 
 Run:
 
@@ -138,7 +138,7 @@ Discuss:
 
 ---
 
-# Step 6 – Basic Aggregation
+## Step 6 – Basic Aggregation
 
 Calculate the average measurements by species:
 
@@ -163,7 +163,7 @@ Observe:
 
 ---
 
-# Step 7 – Simple Filtering
+## Step 7 – Simple Filtering
 
 Run:
 
@@ -182,7 +182,7 @@ Discuss:
 
 ---
 
-# Step 8 – Create a Visualization (Optional UI Interaction)
+## Step 8 – Create a Visualization (Optional UI Interaction)
 
 After running the aggregation query in Step 6:
 
