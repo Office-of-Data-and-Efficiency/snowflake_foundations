@@ -9,18 +9,16 @@ Now that your table has been created and loaded, we will explore the data using 
 
 ---
 
-## Step 1 – Create a Worksheet
+## Step 1 – Access the IRIS.sql file
 
 1. Click `Projects` in the navigation menu.   
-2. Click `+ Add New` and select `SQL File`. 
-3. `Untitled` is highlighted.  Give the file a new name.
-4. Look at the session context.  Is it still correct?  If not make the necessary updates.
+2. Find the `IRIS.sql` file that we created previously and select it
 
 ---
 
 ## Step 2 – Executing SQL in Snowsight
 
-Before running queries, review how to execute SQL in the worksheet.
+Before running queries, let us review how to execute SQL in the worksheet.
 
 ## Run All Statements in a Worksheet
 

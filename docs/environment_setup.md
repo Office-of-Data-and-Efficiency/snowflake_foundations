@@ -18,9 +18,12 @@ If these are not set correctly, queries may fail.
 
 The quickest way to set up our session context is to open a new SQL file.
 
-In the top left corner of the navigation pane click `+` and select `SQL File`.
+In the top left corner of the navigation pane click `Projects` and then click `Workspaces.
 
-This should open a new file called `Untitled1.sql`
+Under **My Workspace** click `+ Add New` and select `SQL File`.
+
+This will create a new file called **Unitled.sql**.  The file name should be highlighted.  Let's give it a new name
+`IRIS.sql`
 
 ---
 
