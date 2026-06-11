@@ -33,15 +33,15 @@ All within the same interface.
 ## Step 1 – Navigate to Notebooks
 
 1. Hover over **Projects** in the navigation menu.  
-2. Click **Notebooks**.
+2. Click **Legacy Notebooks**.
 
-The Notebooks home screen will display any notebooks you have access to.
+The Legacy Notebooks home screen will display any notebooks you have access to.
 
 ---
 
-## Step 2 – Create a New Notebook
+## Step 2 – Create a New Legacy Notebook
 
-1. Click **+ Notebook**.  
+1. Click **+ Legacy Notebook**.  
 2. Set the Notebook name to match your dataset using:
 
    `IRIS_<YOUR_SOUID>_NOTEBOOK`

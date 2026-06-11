@@ -9,14 +9,12 @@ has_toc: true
 
 Workspaces provides a unified editor for creating, organizing, and managing code across multiple file types that you can use to analyze data, develop models, and build pipelines.  A workspace is private to you and offers a development environment where you can build, experiment, and test your work. 
 
-It is made up of 6 areas:
+It is made up of 4 areas:
 
-1. [My Workspace](#1-workspaces)
-2. [Worksheets](#2-worksheets)
-3. [Database Explorer](#3-database-explorer)
-4. [Editor](#4-editor)
-5. [Results Panel](#5-results-panel)
-6. [Query History](#6-query-history)
+1. [Workspaces / Databases](#1-workspaces--databases)
+2. [SQL Editor](#2-sql-editor)
+3. [Results Panel](#3-results-panel)
+4. [Query History](#4-query-history)
 
 ---
 
@@ -31,7 +29,7 @@ It is made up of 6 areas:
 
 ---
 
-## 1. Workspaces
+## 1. Workspaces / Databases
 
 - Central location for your files and folders.
 - Drag and drop files between folders.
@@ -39,22 +37,6 @@ It is made up of 6 areas:
 - Each user has a default workspace named `My Workspace`.
 - You can create additional workspaces using `+ Add New`.
 - The default workspace cannot be renamed or deleted.
-
----
-
-## 2. Worksheets
-
-- Open and edit worksheets you own or have permission to access.
-- Changes will not save if you only have view-only permissions.
-- Convert a worksheet into a workspace file by dragging it into a folder.
-- Workspace queries behave like worksheets with:
-  - Improved UI performance
-  - Ability to run two queries simultaneously from the same SQL file
-
----
-
-## 3. Database Explorer
-
 - Hierarchical view of all databases and objects in your account.
 - Organized by database → schema → object type.
 - Use the filter to quickly locate objects.
@@ -66,7 +48,7 @@ It is made up of 6 areas:
 
 ---
 
-## 4. Editor
+## 2. SQL Editor
 
 - Write and format SQL queries.
 - Split panes to work on multiple files side-by-side.
@@ -74,7 +56,7 @@ It is made up of 6 areas:
 
 ---
 
-## 5. Results Panel
+## 3. Results Panel
 
 - View query results directly below the editor.
 - Split results side-by-side.
@@ -82,7 +64,7 @@ It is made up of 6 areas:
 
 ---
 
-## 6. Query History
+## 4. Query History
 
 - View all queries you have executed.
 - `Current File` shows history for the active file only.
