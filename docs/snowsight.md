@@ -14,9 +14,10 @@ It is made up of 5 areas:
 
 1. [Navigation Menu](#1-navigation-menu) 
 2. [Search](#2-search) 
-3. [Quick Actions](#3-quick-actions) 
-4. [Recently Viewed](#4-recently-viewed) 
-5. [Account Settings](#5-account-settings)
+3. [Cortext](#3-cortext)
+4. [Quick Actions](#4-quick-actions) 
+5. [Recently Viewed](#5-recently-viewed) 
+6. [Account Settings](#6-account-settings)
 
 ---
 
@@ -94,7 +95,13 @@ The Search feature enables rapid discovery of data products and database objects
 
 ---
 
-## 3. Quick Actions
+## 3. Cortext
+
+Cortex Code provides an agentic experience across several functional areas within Snowsight. It is designed to assist data analysts, engineers, and administrators with tasks such as SQL development, data exploration, and account management
+
+--
+
+## 4. Quick Actions
 
 Quick Actions provide shortcuts for commonly performed tasks.
 
@@ -104,7 +111,7 @@ Quick Actions provide shortcuts for commonly performed tasks.
 
 ---
 
-## 4. Recently Viewed
+## 5. Recently Viewed
 
 Recently Viewed provides fast access to previously opened assets.
 
