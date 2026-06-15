@@ -121,7 +121,7 @@ Recently Viewed provides fast access to previously opened assets.
 
 ---
 
-## 5. Account Settings
+## 6. Account Settings
 
 Account Settings allow you to configure your personal Snowsight experience.
 
