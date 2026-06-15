@@ -8,7 +8,7 @@ has_children: true
 
 # Snowsight Interface
 
-The Snowsight home page contains five primary interface sections that support data development, administration, and exploration workflows.
+The Snowsight home page contains six primary interface sections that support data development, administration, and exploration workflows.
 
 It is made up of 6 areas:
 
