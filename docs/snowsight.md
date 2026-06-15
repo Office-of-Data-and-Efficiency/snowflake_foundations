@@ -99,7 +99,7 @@ The Search feature enables rapid discovery of data products and database objects
 
 Cortex Code provides an agentic experience across several functional areas within Snowsight. It is designed to assist data analysts, engineers, and administrators with tasks such as SQL development, data exploration, and account management
 
---
+---
 
 ## 4. Quick Actions
 
