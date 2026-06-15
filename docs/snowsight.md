@@ -10,7 +10,7 @@ has_children: true
 
 The Snowsight home page contains five primary interface sections that support data development, administration, and exploration workflows.
 
-It is made up of 5 areas:
+It is made up of 6 areas:
 
 1. [Navigation Menu](#1-navigation-menu) 
 2. [Search](#2-search) 
