@@ -136,7 +136,7 @@ You now have a synthetic dataset stored in a pandas DataFrame.
 
 ## Step 5: Write Data to a New Snowflake Table
 
-Click **+ Python** at the end of the `Synthetic_Data` cell and insert the following Python code. Rename this cell `Write_to_Snowflake` and click ▶.
+Click **+ Python** at the end of the `Synthetic_Data` cell and insert the following Python code. Rename this cell `WriteToSnowflake` and click ▶.
 
 ```python
 # Because we set our session context in Step 2,
@@ -162,7 +162,7 @@ You have just moved data from Python into a cloud-native data platform using Sno
 
 ## Step 6: Switch to a SQL Cell and Preview Your Data
 
-Click **+ SQL** at the end of the `Write_to_Snowflake` cell and insert the following SQL. Click ▶ to confirm there are 200 records.
+Click **+ SQL** at the end of the `WriteToSnowflake` cell and insert the following SQL. Click ▶ to confirm there are 200 records.
 
 ```sql
 SELECT COUNT(*)
